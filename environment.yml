@@ -1,0 +1,17 @@
+channels:
+  - defaults
+
+dependencies:
+  - python
+  - pip
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - keras
+  - numpy
+  - ipython
+  - tqdm
+  - pydot
+  - openpyxl
+  - plotly
